@@ -1,0 +1,242 @@
+@charset "UTF-8";
+body {
+  background-color: rgb(255, 250, 234);
+}
+
+.block1 {
+  width: 98px;
+  height: 98px;
+  background-color: #E49E9E;
+  margin-top: 59px;
+  margin-left: 62px;
+}
+
+.block2 {
+  width: 661px;
+  height: 300px;
+  margin-top: 225px;
+  margin-left: 62px;
+  display: flex;
+}
+.block2 .block2-1 {
+  width: 261px;
+  border: 1px solid black;
+}
+.block2 .block2-2 {
+  width: 461px;
+  border: 1px solid black;
+}
+
+.block3 {
+  width: 117px;
+  height: 39px;
+  margin-top: 57px;
+  margin-left: 334px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.block4 {
+  width: 662px;
+  height: 242px;
+  margin-left: 62px;
+  margin-top: 36px;
+  display: flex;
+}
+.block4 .block4-1 {
+  width: 196px;
+  margin-right: 37px;
+  border: 1px solid black;
+  background-image: url("/甜點圖片/Rectangle 3 (2).png");
+  background-size: contain;
+  display: flex;
+  justify-content: center;
+}
+.block4 .block4-1 .block4-1-1 {
+  width: 120px;
+  height: 30px;
+  margin-top: 192px;
+  border: 1px solid black;
+  background-color: rgb(211, 130, 130);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.block4 .block4-2 {
+  width: 196px;
+  border: 1px solid black;
+  background-image: url("/甜點圖片/Rectangle 3.png");
+  background-size: contain;
+  display: flex;
+  justify-content: center;
+}
+.block4 .block4-2 .block4-1-1 {
+  width: 120px;
+  height: 30px;
+  margin-top: 192px;
+  border: 1px solid black;
+  background-color: rgb(211, 130, 130);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.block4 .block4-3 {
+  width: 196px;
+  margin-right: 37px;
+  border: 1px solid black;
+  background-image: url("/甜點圖片/Rectangle 3 (1).png");
+  background-size: contain;
+  display: flex;
+  justify-content: center;
+}
+.block4 .block4-3 .block4-1-1 {
+  width: 120px;
+  height: 30px;
+  margin-top: 192px;
+  border: 1px solid black;
+  background-color: rgb(211, 130, 130);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.block5 {
+  width: 692px;
+  height: 0px;
+  margin-right: 49px;
+  margin-left: 44px;
+  margin-top: 57px;
+  border: 1px solid black;
+}
+
+.block6 {
+  width: 86px;
+  height: 39px;
+  margin-top: 40px;
+  margin-left: 350px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.block7 {
+  width: 662px;
+  height: 264px;
+  margin-left: 62px;
+  margin-top: 22px;
+  display: flex;
+}
+.block7 .block7-1 {
+  width: 196px;
+  margin-right: 37px;
+  border: 1px solid black;
+  position: relative;
+}
+.block7 .block7-1 .block7-1-1 {
+  height: 130px;
+  margin: 0;
+}
+.block7 .block7-1 .block7-1-2 {
+  height: 134px;
+  background-color: white;
+}
+.block7 .block7-1 .block7-1-2 p {
+  margin-top: 0px;
+}
+.block7 .block7-1 .block7-1-2 .block7-1-2-1 {
+  width: 90px;
+  height: 26px;
+  background-color: black;
+  border: 1px solid black;
+  position: absolute;
+}
+.block7 .block7-2 {
+  width: 196px;
+  border: 1px solid black;
+}
+.block7 .block7-2 .block7-1-1 {
+  height: 130px;
+  border: 1px solid black;
+  margin: 0;
+}
+
+.block8 {
+  width: 124.62px;
+  height: 36px;
+  margin-top: 34px;
+  margin-left: 330px;
+  background-color: #E49E9E;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.block9 {
+  width: 662px;
+  height: 267px;
+  margin-left: 62px;
+  margin-top: 124px;
+  display: flex;
+  position: relative;
+}
+.block9 .block9-1 {
+  width: 405px;
+  margin-right: 37px;
+  border: 1px solid black;
+}
+.block9 .block9-2 {
+  width: 220px;
+  border: 1px solid black;
+  background-color: rgb(247, 205, 192);
+}
+.block9 .block9-2 .block9-2-1 {
+  width: 131px;
+  height: 29px;
+  margin-top: 32px;
+  margin-left: 44px;
+  font-size: 24px;
+}
+.block9 .block9-2 .block9-2-1 p {
+  margin: 0px;
+}
+.block9 .block9-2 .block9-2-2 {
+  width: 155px;
+  height: 169px;
+  margin-top: 16px;
+  margin-left: 32px;
+  font-size: 12px;
+}
+.block9 .block9-2 .block9-2-2 p {
+  margin: 0px;
+}
+
+.block10 {
+  width: 785px;
+  height: 79px;
+  margin-top: 185px;
+  background-color: #E49E9E;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.block10 .block11 {
+  width: 181px;
+  height: 17px;
+  font-size: 15px;
+}
+.block10 .block11 p {
+  margin: 0px;
+}
+
+.block12 {
+  width: 402px;
+  height: 370px;
+  border: 1px solid black;
+  background-color: rgb(228, 158, 158);
+  position: absolute;
+  right: 383px;
+  top: -45px;
+  position: absolute;
+  z-index: -1;
+}/*# sourceMappingURL=main.css.map */
